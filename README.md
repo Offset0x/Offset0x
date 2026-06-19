@@ -15,7 +15,7 @@ Most of my work starts with one of these:
 
 ## Current lab
 
-[Koderu.xyz](https://koderu.xyz)
+https://koderu.xyz
 
 ## Public artifacts
 
